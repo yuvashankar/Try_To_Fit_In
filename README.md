@@ -2,7 +2,7 @@
 
 Try to fit in is a farce of the modern corporate world. You play as an outsider who wants to improve the company, but must also try to fit into the hypoxic echelons of management.
 
-#Development
+# Development
 
 I built this game in 7 days without having any prior knolwedge about Unreal Engine 4. It was an experiment to determine how quickly one could learn, develop, and ship a product on Unreal.
 
@@ -20,11 +20,11 @@ Another aspect that was woefully missing in this game was the lack of source con
 
 In the future, no matter how small the project, I plan on learning and using source code control. The ability to roll back and revert any changes is invaluable. 
 
-#Credits
+# Credits
 I wasn't developing this project entirely in the dark. There are several resources that I used to get me started. 
 
 1. The character class was created with the help of the [Unreal Engine FPS Game Tutorial](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/ProgrammingWithCPP/CPPTutorials/FirstPersonShooter/index.html)
 
 2. The Quick Time Event was nearly a direct copy from this [guide](https://www.youtube.com/watch?v=GKkZDXz-lOA&t=376s)
 
-3. The environment is called "Office Scene" and was downloaded on the Unreal Engine Marketplace it was free to download at the time of writing. 
+3. The environment is called "[Office Scene](https://unrealengine.com/marketplace/en-US/product/office-scene)" and was downloaded on the Unreal Engine Marketplace it was free to download at the time of writing. 
