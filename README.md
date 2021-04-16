@@ -2,6 +2,9 @@
 
 Try to fit in is a farce of the modern corporate world. You play as an outsider who wants to improve the company, but must also try to fit into the hypoxic echelons of management.
 
+# Video Walk Through
+A video of me playing and commenting on the game can be found [here](https://youtu.be/yy6RzJGg_rI). 
+
 # Development
 
 I built this game in 7 days without having any prior knolwedge about Unreal Engine 4. It was an experiment to determine how quickly one could learn, develop, and ship a product on Unreal.
