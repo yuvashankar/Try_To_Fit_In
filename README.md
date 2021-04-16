@@ -2,7 +2,7 @@
 
 Try to fit in is a farce of the modern corporate world. You play as an outsider who wants to improve the company, but must also try to fit into the hypoxic echelons of management.
 
-# Video Walk Through
+# Video Walkthrough
 A video of me playing and commenting on the game can be found [here](https://youtu.be/yy6RzJGg_rI). 
 
 # Development
