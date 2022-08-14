@@ -1,7 +1,10 @@
 # Try to fit in
 [![Download on itch.io](./itch_badge.svg)](https://yuvashankar.itch.io/try-to-fit-in)
 
+Click on the image above or [here](https://yuvashankar.itch.io/try-to-fit-in) download the game. 
 
+
+# Overview
 Try to fit in is a farce of the modern corporate world. You play as an outsider who wants to improve the company, but must also try to fit into the hypoxic echelons of management.
 
 # Video Walkthrough
